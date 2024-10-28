@@ -1,0 +1,18 @@
+{
+  "name": "a-staff-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "@wordpress/api-fetch": "^1.1.1",
+    "@wordpress/babel-plugin-import-jsx-pragma": "^1.0.3",
+    "cgb-scripts": "1.9.8"
+  },
+  "devDependencies": {
+    "@wordpress/babel-preset-default": "^2.0.4"
+  }
+}

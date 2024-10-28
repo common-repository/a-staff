@@ -1,0 +1,97 @@
+// a-staff box styles
+
+.a-staff-member-box-wrapper {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.a-staff-member-box {
+	border: 1px solid #ccc;
+	text-align: center;
+	position: relative;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	width: 100%;
+	max-width: 480px;
+}
+
+.a-staff-member-box > a:first-child {
+	line-height: 0;
+	display: block;
+	overflow: hidden;
+	padding: 0;
+}
+
+.a-staff-member-box a, .a-staff-member-box a {
+	text-decoration: none;
+	box-shadow: none;
+	border-bottom: 0;
+}
+
+.a-staff-member-box img.a-staff-member-image {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.a-staff-member-title {
+	font-style: italic;
+}
+
+.a-staff-member-box .a-staff-member-bio {
+	margin-bottom: 2em;
+}
+
+.a-staff-member-box .a-staff-member-bio br {
+	margin-bottom: 1em;
+}
+
+.a-staff-member-box .a-staff-member-social {
+	list-style: none;
+	margin: 0 0 2em 0;
+	padding: 0;
+	width: 100%;
+}
+
+.a-staff-nophone .a-staff-member-box .a-staff-member-social {
+	margin-top: auto;
+}
+
+.a-staff-noicons .a-staff-member-box .a-staff-member-social {
+	display: none;
+}
+
+.a-staff-member-social li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.a-staff-member-social li::before {
+	display: none;
+}
+
+.a-staff-member-social li a {
+	text-decoration: none;
+	box-shadow: none;
+}
+
+.a-staff-member-box > p, .a-staff-member-box > h3 {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.a-staff-member-box > h3 {
+	margin-top: 1em;
+	padding-top: 0;
+}
+
+.a-staff-member-box .a-staff-member-phone {
+	margin-top: auto;
+	margin-bottom: 1em;
+}

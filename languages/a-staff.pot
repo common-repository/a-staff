@@ -1,0 +1,837 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: a-staff\n"
+"POT-Creation-Date: 2018-10-29 07:35+0100\n"
+"PO-Revision-Date: 2016-10-06 17:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: a-idea studio <info@a-idea.studio>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: freemius\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+
+#: inc/a-staff-cpt.php:10
+msgctxt "Post Type General Name"
+msgid "Staff Members"
+msgstr ""
+
+#: inc/a-staff-cpt.php:11
+msgctxt "Post Type Singular Name"
+msgid "Staff Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:12
+msgid "Staff Members"
+msgstr ""
+
+#: inc/a-staff-cpt.php:13 inc/a-staff-cpt.php:37
+msgid "Staff Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:14
+msgid "Member Archives"
+msgstr ""
+
+#: inc/a-staff-cpt.php:15
+msgid "Parent Member:"
+msgstr ""
+
+#: inc/a-staff-cpt.php:16
+msgid "All Members"
+msgstr ""
+
+#: inc/a-staff-cpt.php:17
+msgid "Add New Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:18
+msgid "Add New"
+msgstr ""
+
+#: inc/a-staff-cpt.php:19
+msgid "New Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:20
+msgid "Edit Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:21
+msgid "Update Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:22
+msgid "View Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:23
+msgid "Search Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:24
+msgid "Not found"
+msgstr ""
+
+#: inc/a-staff-cpt.php:25
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/a-staff-cpt.php:26
+msgid "Photo of the Member"
+msgstr ""
+
+#: inc/a-staff-cpt.php:27
+msgid "Set Member's photo"
+msgstr ""
+
+#: inc/a-staff-cpt.php:28
+msgid "Remove Member's photo"
+msgstr ""
+
+#: inc/a-staff-cpt.php:29
+msgid "Use as Member's photo"
+msgstr ""
+
+#: inc/a-staff-cpt.php:30
+msgid "Insert into Member's page"
+msgstr ""
+
+#: inc/a-staff-cpt.php:31
+msgid "Uploaded to this Member's page"
+msgstr ""
+
+#: inc/a-staff-cpt.php:32
+msgid "Members list"
+msgstr ""
+
+#: inc/a-staff-cpt.php:33
+msgid "Members list navigation"
+msgstr ""
+
+#: inc/a-staff-cpt.php:34
+msgid "Filter Members list"
+msgstr ""
+
+#: inc/a-staff-cpt.php:38
+msgid "Staff members of your team"
+msgstr ""
+
+#: inc/a-staff-cpt.php:67
+msgctxt "Taxonomy General Name"
+msgid "Member Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:68
+msgctxt "Taxonomy Singular Name"
+msgid "Member Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:69
+msgid "Member Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:70
+msgid "All Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:71
+msgid "Parent Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:72
+msgid "Parent Title:"
+msgstr ""
+
+#: inc/a-staff-cpt.php:73
+msgid "New Member Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:74
+msgid "Add New Member Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:75
+msgid "Edit Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:76
+msgid "Update Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:77
+msgid "View Title"
+msgstr ""
+
+#: inc/a-staff-cpt.php:78
+msgid "You can add titles like \"CEO\", \"Assistant\", \"Senior Developer\", etc. here. Separate titles with commas"
+msgstr ""
+
+#: inc/a-staff-cpt.php:79
+msgid "Add or remove Member Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:80 pro/inc/a-staff-pro-cpt.php:23
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/a-staff-cpt.php:81
+msgid "Popular Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:82
+msgid "Search Member Titles"
+msgstr ""
+
+#: inc/a-staff-cpt.php:83 pro/inc/a-staff-pro-cpt.php:26
+msgid "Not Found"
+msgstr ""
+
+#: inc/a-staff-cpt.php:84 pro/inc/a-staff-pro-cpt.php:27
+msgid "No items"
+msgstr ""
+
+#: inc/a-staff-cpt.php:85
+msgid "Titles list"
+msgstr ""
+
+#: inc/a-staff-cpt.php:86
+msgid "Titles list navigation"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:19
+msgid "Select member"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:27
+msgid "a-staff Team Member"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:28
+msgid "Select team member"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:94
+msgid "a-staff Loop"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:95 inc/a-staff-options.php:63
+msgid "Layout"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:96
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:99
+msgid "Order by"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:101
+msgid "Order direction"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:103
+msgid "CSS Class name"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:104
+msgid "Filters"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:105
+msgid "Show only these Members"
+msgstr ""
+
+#: inc/a-staff-gutenberg.php:107
+msgid "Exclude Members"
+msgstr ""
+
+#: inc/a-staff-init.php:66 inc/a-staff-options.php:12
+msgid "a-staff Settings"
+msgstr ""
+
+#: inc/a-staff-init.php:67
+msgid "Settings"
+msgstr ""
+
+#: inc/a-staff-init.php:76
+msgid "a-staff Support"
+msgstr ""
+
+#: inc/a-staff-init.php:77
+msgid "Support"
+msgstr ""
+
+#: inc/a-staff-init.php:95
+msgid "a-staff Default"
+msgstr ""
+
+#: inc/a-staff-init.php:206
+msgid "From a-staff v1.2 we are using a new, advanced templating system for displaying staff members. While your old templates will still be usable until the release of v1.5, it's strongly recommended that you switch to the new template types as soon as possible. <a href=\"https://a-idea.studio/a-staff/documentation/templates\" target=\"_blank\">Read more in this article</a>"
+msgstr ""
+
+#: inc/a-staff-options.php:13
+msgid "a-staff"
+msgstr ""
+
+#: inc/a-staff-options.php:51
+msgid "Social"
+msgstr ""
+
+#: inc/a-staff-options.php:52
+msgid "Social Networks setup"
+msgstr ""
+
+#: inc/a-staff-options.php:53
+msgid "Set up the available social networks here for the a-staff plugin"
+msgstr ""
+
+#: inc/a-staff-options.php:64
+msgid "Layout settings"
+msgstr ""
+
+#: inc/a-staff-options.php:65
+msgid "Settings for the front end layout of this plugin"
+msgstr ""
+
+#: inc/a-staff-options.php:75
+msgid "Responsive"
+msgstr ""
+
+#: inc/a-staff-options.php:76
+msgid "Responsiveness settings"
+msgstr ""
+
+#: inc/a-staff-options.php:77
+msgid "How should the plugin's output behave on small screens? Works only if you enabled the <b>Load Basic Front end CSS</b> setting on the <b>Layout</b> tab."
+msgstr ""
+
+#: inc/a-staff-options.php:87
+msgid "Behavior"
+msgstr ""
+
+#: inc/a-staff-options.php:88
+msgid "Behavior settings"
+msgstr ""
+
+#: inc/a-staff-options.php:89
+msgid "A few settings about how should the shortcode work"
+msgstr ""
+
+#: inc/a-staff-options.php:99
+msgid "System"
+msgstr ""
+
+#: inc/a-staff-options.php:100
+msgid "System settings"
+msgstr ""
+
+#: inc/a-staff-options.php:101
+msgid "Settings about how the plugin should work under the hood"
+msgstr ""
+
+#: inc/a-staff-options.php:113
+msgid "Social Network manager"
+msgstr ""
+
+#: inc/a-staff-options.php:114
+msgid "You can add/remove social networks here that will be available on Staff Member pages"
+msgstr ""
+
+#: inc/a-staff-options.php:118
+msgid "Add Social Network"
+msgstr ""
+
+#: inc/a-staff-options.php:123
+msgid "Name of the Social Network"
+msgstr ""
+
+#: inc/a-staff-options.php:124
+msgid "This is the public name of the social network, it should be something like \"Facebook\", \"Twitter\", or similar."
+msgstr ""
+
+#: inc/a-staff-options.php:126
+msgid "Enter the name of the network here, e.g. \"Facebook\""
+msgstr ""
+
+#: inc/a-staff-options.php:130
+msgid "Icon for the Social Network"
+msgstr ""
+
+#: inc/a-staff-options.php:131
+msgid "Choose an icon for the Network"
+msgstr ""
+
+#: inc/a-staff-options.php:137
+msgid "Icon color"
+msgstr ""
+
+#: inc/a-staff-options.php:138
+msgid "Set the color of this icon here."
+msgstr ""
+
+#: inc/a-staff-options.php:160
+msgid "Social link target"
+msgstr ""
+
+#: inc/a-staff-options.php:161
+msgid "Should it open in a new browser tab or in the same tab?"
+msgstr ""
+
+#: inc/a-staff-options.php:165
+msgid "Same tab"
+msgstr ""
+
+#: inc/a-staff-options.php:166
+msgid "New tab"
+msgstr ""
+
+#: inc/a-staff-options.php:177
+msgid "Social icon size"
+msgstr ""
+
+#: inc/a-staff-options.php:178
+#, php-format
+msgid "Size of the icon in %1$sFont Awesome sizes%2$s"
+msgstr ""
+
+#: inc/a-staff-options.php:183
+msgid "Extra Small"
+msgstr ""
+
+#: inc/a-staff-options.php:184
+msgid "Small"
+msgstr ""
+
+#: inc/a-staff-options.php:185
+msgid "Normal"
+msgstr ""
+
+#: inc/a-staff-options.php:186
+msgid "Larger"
+msgstr ""
+
+#: inc/a-staff-options.php:187
+msgid "Double"
+msgstr ""
+
+#: inc/a-staff-options.php:188
+msgid "Triple"
+msgstr ""
+
+#: inc/a-staff-options.php:189
+msgid "4x"
+msgstr ""
+
+#: inc/a-staff-options.php:190
+msgid "5x"
+msgstr ""
+
+#: inc/a-staff-options.php:191
+msgid "6x"
+msgstr ""
+
+#: inc/a-staff-options.php:192
+msgid "7x"
+msgstr ""
+
+#: inc/a-staff-options.php:193
+msgid "8x"
+msgstr ""
+
+#: inc/a-staff-options.php:194
+msgid "9x"
+msgstr ""
+
+#: inc/a-staff-options.php:195
+msgid "10x"
+msgstr ""
+
+#: inc/a-staff-options.php:206
+msgid "Enable icon colors?"
+msgstr ""
+
+#: inc/a-staff-options.php:207
+msgid "If enabled, you can specify the color of each social icon separately. Otherwise they will use the default theme colors."
+msgstr ""
+
+#: inc/a-staff-options.php:219
+msgid "Enable phone numbers?"
+msgstr ""
+
+#: inc/a-staff-options.php:220
+msgid "If enabled, you can add phone numbers to the staff member boxes."
+msgstr ""
+
+#: inc/a-staff-options.php:232
+msgid "Number of columns"
+msgstr ""
+
+#: inc/a-staff-options.php:233
+msgid ""
+"The default number of columns to be used when displaying staff members in the front end. You can override this setting with the shortcode's <strong>columns</strong> attribute.<br>\n"
+"\t\tIn the current version 1 to 6 columns are supported."
+msgstr ""
+
+#: inc/a-staff-options.php:249
+msgid "Add some formatting to the member bio?"
+msgstr ""
+
+#: inc/a-staff-options.php:250
+msgid "If eanbled, the new lines will be displayed in the member descriptions."
+msgstr ""
+
+#: inc/a-staff-options.php:262
+msgid "Length of member bio"
+msgstr ""
+
+#: inc/a-staff-options.php:263
+msgid "Maximum length of member bio in words. Currently only available if the bio is formatted."
+msgstr ""
+
+#: inc/a-staff-options.php:297
+msgid "Image sizes in member boxes"
+msgstr ""
+
+#: inc/a-staff-options.php:298
+msgid "Which image size should we use in the staff member boxes when it's displayed in the front end? ('c' at the end means that the image is cropped)"
+msgstr ""
+
+#: inc/a-staff-options.php:311
+msgid "Image sizes on single member pages"
+msgstr ""
+
+#: inc/a-staff-options.php:312
+msgid "Which image size should we use on the single member pages in the front end? ('c' at the end means that the image is cropped)"
+msgstr ""
+
+#: inc/a-staff-options.php:326
+msgid "Use Legacy box template"
+msgstr ""
+
+#: inc/a-staff-options.php:327
+#, php-format
+msgid "If enabled, the member tiles will be displayed using the Legacy Box template editor. If you are using a-staff v1.2 or newer, please use the Child Theme templates instead for customizing the plugin's output. <a href=\"%s\" target=\"_blank\">Read more here</a>"
+msgstr ""
+
+#: inc/a-staff-options.php:339
+msgid "Box template (Legacy)"
+msgstr ""
+
+#: inc/a-staff-options.php:340
+msgid ""
+"Template editor for the member boxes. You can use the following shorttags in it:<br>\n"
+"\t\t\t<b>{MEMBER_NAME}</b> - Name of the Staff Member (the title of the article)<br>\n"
+"\t\t\t<b>{MEMBER_EXCERPT}</b> - Short bio of Staff Member (the excerpt of the article)<br>\n"
+"\t\t\t<b>{MEMBER_TITLE}</b> - Title of the Staff Member (Member Title taxonomy), will be separated by commas if there is more<br>\n"
+"\t\t\t<b>{MEMBER_SOCICONS}</b> - A list of the Staff Member's social links<br>\n"
+"\t\t\t<b>{MEMBER_URL}</b> - URL to the Staff Member's single page<br>\n"
+"\t\t\t<b>{MEMBER_IMAGE}</b> - URL to the Staff Member's featured image<br>\n"
+"\t\t\t<b>{MEMBER_PHONE}</b> - The Staff Member's phone number (if you enabled it on the Social tab)<br>\n"
+"\t\t\t<br>\n"
+"\t\t\t<b><i>IMPORTANT! This template editor will be removed after a-staff v1.5. Use the templating system introduced in v1.2 instead. <a href=\"https://a-idea.studio/a-staff/documentation/templates/\" target=\"_blank\">Read more here</a></i></b>\n"
+"\t\t\t"
+msgstr ""
+
+#: inc/a-staff-options.php:383
+msgid "Load basic front end CSS?"
+msgstr ""
+
+#: inc/a-staff-options.php:384
+msgid ""
+"If enabled, a small CSS file will be loaded in the front end in order to give some shape to the Staff Member boxes.<br>\n"
+"\t\tDisable it if you have your own style rules for a-staff boxes in your theme's stylesheets (recommended only for experts)."
+msgstr ""
+
+#: inc/a-staff-options.php:397
+msgid "Responsive behavior"
+msgstr ""
+
+#: inc/a-staff-options.php:398
+msgid "Should the built-in styles support responsive behavior? Disable it only for non-responsive themes."
+msgstr ""
+
+#: inc/a-staff-options.php:418
+msgid "Responsive breakpoints"
+msgstr ""
+
+#: inc/a-staff-options.php:419
+msgid "You can fine-tune here the behavior of the team member columns for smaller screens."
+msgstr ""
+
+#: inc/a-staff-options.php:425
+msgid "Breakpoint #1 (5-6 → 3)"
+msgstr ""
+
+#: inc/a-staff-options.php:426
+msgid "Under this window width the 5 and 6 column layouts change to 3-column layout"
+msgstr ""
+
+#: inc/a-staff-options.php:433
+msgid "Breakpoint #2 (3-6 → 2)"
+msgstr ""
+
+#: inc/a-staff-options.php:434
+msgid "Under this window width the 3, 4, 5 and 6 column layouts change to 2-column layout"
+msgstr ""
+
+#: inc/a-staff-options.php:441
+msgid "Breakpoint #3 (2-6 → 1)"
+msgstr ""
+
+#: inc/a-staff-options.php:442
+msgid "Under this window width all the multi-column layouts change to 1-column layout"
+msgstr ""
+
+#: inc/a-staff-options.php:471
+msgid "Default sorting"
+msgstr ""
+
+#: inc/a-staff-options.php:472
+msgid "The default sorting of the member tiles inside the shortcode. You can override it with the \"orderby\" attribute of the shortcode."
+msgstr ""
+
+#: inc/a-staff-options.php:476
+msgid "Menu Order (Post Attributes » Order)"
+msgstr ""
+
+#: inc/a-staff-options.php:477
+msgid "Member Name"
+msgstr ""
+
+#: inc/a-staff-options.php:478
+msgid "Date Added"
+msgstr ""
+
+#: inc/a-staff-options.php:489
+msgid "Sorting direction"
+msgstr ""
+
+#: inc/a-staff-options.php:490
+msgid "Should we order the members by starting from the lowest or the highest value?"
+msgstr ""
+
+#: inc/a-staff-options.php:494
+msgid "Ascending"
+msgstr ""
+
+#: inc/a-staff-options.php:495
+msgid "Descending"
+msgstr ""
+
+#: inc/a-staff-options.php:506
+msgid "Tile click action"
+msgstr ""
+
+#: inc/a-staff-options.php:507
+msgid ""
+"What should clicking on a member tile induce?<br>\n"
+"\t\t\t<b>Nothing:</b> Tiles will not be linked to anywhere<br>\n"
+"\t\t\t<b>Single page:</b> Tiles are linked to member single pages"
+msgstr ""
+
+#: inc/a-staff-options.php:513
+msgid "Nothing"
+msgstr ""
+
+#: inc/a-staff-options.php:514
+msgid "Single page"
+msgstr ""
+
+#: inc/a-staff-options.php:525
+msgid "Delete data on plugin uninstall?"
+msgstr ""
+
+#: inc/a-staff-options.php:526
+msgid "If enabled, all data will be removed when you delete the a-staff plugin. Otherwise the data added by the plugin will be kept in the database."
+msgstr ""
+
+#: inc/a-staff-options.php:543
+msgid "Staff Member's social profiles"
+msgstr ""
+
+#: inc/a-staff-options.php:544
+msgid "Enter the URLs for the social links here. If left empty, it won't appear in the front end."
+msgstr ""
+
+#: inc/a-staff-options.php:559
+msgid "URL starting with http://, https://, mailto:, etc."
+msgstr ""
+
+#: inc/a-staff-options.php:575
+msgid "Member's phone number"
+msgstr ""
+
+#: inc/a-staff-options.php:597
+msgid "Documentation"
+msgstr ""
+
+#: inc/a-staff-options.php:598
+msgid "You can find the plugin's online documentation here:"
+msgstr ""
+
+#: inc/a-staff-options.php:598
+msgid "a-staff Documentation"
+msgstr ""
+
+#: inc/a-staff-options.php:600
+msgid "Online Support"
+msgstr ""
+
+#: inc/a-staff-options.php:601
+msgid "Have a question about the usage of the plugin? Have an idea about what could be included in the next version?"
+msgstr ""
+
+#: inc/a-staff-options.php:601
+msgid "Tell us about it!"
+msgstr ""
+
+#: inc/a-staff-options.php:603
+msgid "Tell us how you like the plugin"
+msgstr ""
+
+#: inc/a-staff-options.php:604
+msgid "Your opinion is valuable for us, please rate it on wordpress.org:"
+msgstr ""
+
+#: inc/a-staff-options.php:604
+msgid "Rate the plugin"
+msgstr ""
+
+#: inc/a-staff-options.php:606
+msgid "Add your site to our Wall of Fame"
+msgstr ""
+
+#: inc/a-staff-options.php:607
+msgid "Are you proud of your site where you use this plugin? Apply for a place on our Wall of Fame page:"
+msgstr ""
+
+#: inc/a-staff-options.php:607
+msgid "Read more"
+msgstr ""
+
+#: inc/a-staff-options.php:609
+msgid "Try our other plugins, too"
+msgstr ""
+
+#: inc/a-staff-options.php:610
+msgid "a-folio (Portfolio plugin)"
+msgstr ""
+
+#: inc/a-staff-options.php:611
+msgid "a-boxes (add a slide-in layer over your images)"
+msgstr ""
+
+#: inc/a-staff-options.php:613
+msgid "Get Social, like us:"
+msgstr ""
+
+#: inc/a-staff-options.php:614
+msgid "Twitter"
+msgstr ""
+
+#: inc/a-staff-options.php:615
+msgid "Facebook"
+msgstr ""
+
+#: inc/a-staff-shortcode.php:109
+msgid "No team members found"
+msgstr ""
+
+#: inc/class/class-member.php:30
+msgid "(empty item)"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:10
+msgctxt "Taxonomy General Name"
+msgid "Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:11
+msgctxt "Taxonomy Singular Name"
+msgid "Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:12
+msgid "Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:13
+msgid "All Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:14
+msgid "Parent Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:15
+msgid "Parent Department:"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:16
+msgid "New Department Name"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:17
+msgid "Add New Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:18
+msgid "Edit Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:19
+msgid "Update Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:20
+msgid "View Department"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:21
+msgid "Separate items with commas"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:22
+msgid "Add or remove Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:24
+msgid "Popular Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:25
+msgid "Search Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:28
+msgid "Departments list"
+msgstr ""
+
+#: pro/inc/a-staff-pro-cpt.php:29
+msgid "Departments list navigation"
+msgstr ""
+
+#: pro/inc/a-staff-pro-gutenberg.php:23
+msgid "Show only these Departments"
+msgstr ""
+
+#: pro/inc/a-staff-pro-gutenberg.php:25
+msgid "Exclude Departments"
+msgstr ""
+
+#: templates/member-box.php:13 templates/single-member.php:19
+#, php-format
+msgid "Photo of %s"
+msgstr ""
